@@ -8,8 +8,8 @@
 from setuptools import setup
 
 setup(
-    name='kbc',
+    name='ComplEx',
     ext_package='',
-    packages=['kbc'],
-    package_data={'kbc': ['data/**/*']},
+    packages=['ComplEx'],
+    package_data={'ComplEx': ['data/**/*']},
 )
